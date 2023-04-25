@@ -3,22 +3,33 @@
   <br />
   <br />
 
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
+
   
 
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Hi!+My+name+is+Isabelly+Barbosa+!;I'm+16+years+old!;I'm+from+Brazil!;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
 
+# 🪄Sobre mim:
+ 🧠Aquilo que te desafia é o mesmo que te transforma!<br> 👨‍💻Estou colaborando com [Thayná Nascimento](https://github.com/thaynaxt) <br>📫 Meu e-mail : *isabellybcordeiro@gmail.com*<br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabellybarbosac&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="isabelly-barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellybarbosac&layout=compact&hide_border=true&title_color=4B0082text_color=4B0082&bg_color=0d1117" />
-</div>
+
+# 💻 Minhas estatísticas:
+<p>&nbsp;<img align="center" ("![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ 
+# 📊 Estatísticas do Github:
+![](https://github-readme-stats.vercel.app/api?username=isabellybarbosac&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isabellybarbosac&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellybarbosac&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=isabellybarbosac&icon=9&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
 
 <div align="center"> 
 <a href="https://instagram.com/isabellyy_09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
