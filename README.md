@@ -9,15 +9,14 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Hi!+My+name+is+Isabelly+Barbosa+!;I'm+16+years+old!;I'm+from+Brazil!;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
-
-# 
- 🧠Aquilo que te desafia é o mesmo que te transforma!<br> 👨‍💻Estou colaborando com [Thayná Nascimento](https://github.com/thaynaxt) <br>📫 Meu e-mail : *isabellybcordeiro@gmail.com*<br>
-
+<div align="center">
+ 
+ 🧠 | Aquilo que te desafia é o mesmo que te transforma!<br> 
 
 # 
 <p>&nbsp;<img align="center" ("![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
-# 📊 Estatísticas do Github:
+# 📊 | Estatísticas do Github:
 ![](https://github-readme-stats.vercel.app/api?username=isabellybarbosac&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isabellybarbosac&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellybarbosac&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -33,9 +32,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ <div align="center">
+ 
+ 📫 | E-mail : *isabellybcordeiro@gmail.com*<br>
 
 <div align="center"> 
 <a href="https://instagram.com/isabellyy_09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ 
+ 
   
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
