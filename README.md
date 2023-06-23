@@ -8,7 +8,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Hi!+My+name+is+Isabelly+Barbosa+!;I'm+16+years+old!;I'm+from+Brazil!;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Olá!+Meu+nome+é+Isabelly+Barbosa.;Eu+tenho+16+anos!;Sou+do+Brasil!;Seja+bem-vindo+ao+meu+perfil!!!)](https://git.io/typing-svg)
 <div align="center">
  
  🧠 | Aquilo que te desafia é o mesmo que te transforma!<br> 
@@ -41,7 +41,7 @@
  
  
   
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
