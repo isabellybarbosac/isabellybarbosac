@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B1B1&height=120&section=header"/>
-<div align="center"> 
-🤖 | Seja bem-vindo ao meu perfil! <br><br>
-👩‍💻 | Meu nome é Isabelly Barbosa Cordeiro;<br><br>
-🌎 | Sou brasileira e tenho 16 anos;<br><br>
-🧑‍🎓 | Estudante de Informática no IFCE.
+
+
+ <div align="center">
+<h3> 🤖 | Seja bem-vindo ao meu perfil! <br>
+ 👩‍💻 | Meu nome é Isabelly Barbosa Cordeiro;<br>
+🌎 | Sou brasileira e tenho 16 anos;<br>
+🧑‍🎓   | Estudante de Informática no IFCE.
 <br><br>
 <br><br>
  
