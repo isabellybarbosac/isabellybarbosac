@@ -1,12 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B1B1&height=120&section=header"/>
 
-
- <div align="center">
-<h3> 🤖 | Seja bem-vindo ao meu perfil! <br>
- 👩‍💻 | Meu nome é Isabelly Barbosa Cordeiro;<br>
-🌎 | Sou brasileira e tenho 16 anos;<br>
-🧑‍🎓   | Estudante de Informática no IFCE.
-<br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+perfil!🤖;+Meu+nome+é+Isabelly+Barbosa+Cordeiro👩‍💻+;Sou+brasileira+e+tenho+16+anos🌎;+Estudante+de+Informática+do+IFCE.🧑‍🎓;)
 <br><br>
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isabellybarbosac&bg_color=141013&color=4fe3c6&line=8632b3&point=16b1b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
