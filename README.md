@@ -17,13 +17,16 @@
 
 
 
-### Linguagens em aprendizado:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b>Linguagens em aprendizado:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+ <div align="center"> 
+ 📫 | Contatos:
  <div align="center">
  
- 📫 | E-mail : *isabellybcordeiro@gmail.com*<br>
+   *isabellybcordeiro@gmail.com*<br>
 
 <div align="center"> 
 <a href="https://www.instagram.com/isabelly.bc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
