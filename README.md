@@ -4,7 +4,7 @@
 
 •	Sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará – Campus Fortaleza🏫
 
-•	Iniciei o curso técnico integrado em Informática no ano de 2022 e atualmente estou cursando o quinto período.
+•	Iniciei o curso técnico integrado em Informática no ano de 2022 e atualmente estou cursando o sexto período.
 
 •	Leitura e escrita estão sempre comigo no tempo livre📙
 
