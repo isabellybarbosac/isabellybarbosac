@@ -2,9 +2,9 @@
 
 •	Olá! Meu nome é Isabelly Barbosa. Seja bem – vindo(a) ao meu perfil😊
 
-•	Sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará – Campus Fortaleza🏫
+•	Sou técnica em informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará – Campus Fortaleza🏫
 
-•	Iniciei o curso técnico integrado em Informática no ano de 2022 e atualmente estou cursando o sexto período.
+•	Atualmente estou cursando bacharelado em Engenharia de Software.
 
 •	Leitura e escrita estão sempre comigo no tempo livre📙
 
